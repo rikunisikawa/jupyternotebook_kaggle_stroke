@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nishi/Kaggle/MedicalCost/mlruns/0/7723d83f25d44dddb22f90807ddc15c7/artifacts
+end_time: 1713135403772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7723d83f25d44dddb22f90807ddc15c7
+run_name: melodic-yak-873
+run_uuid: 7723d83f25d44dddb22f90807ddc15c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713135394494
+status: 3
+tags: []
+user_id: nishi

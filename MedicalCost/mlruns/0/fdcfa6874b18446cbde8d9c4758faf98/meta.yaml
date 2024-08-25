@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nishi/Kaggle/MedicalCost/mlruns/0/fdcfa6874b18446cbde8d9c4758faf98/artifacts
+end_time: 1714323737573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdcfa6874b18446cbde8d9c4758faf98
+run_name: nimble-ray-655
+run_uuid: fdcfa6874b18446cbde8d9c4758faf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714323725208
+status: 3
+tags: []
+user_id: nishi
